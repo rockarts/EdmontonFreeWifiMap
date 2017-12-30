@@ -1,0 +1,1859 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.432253933,
+                                 53.588635515686
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5886355156856",
+                 "location_address": null,
+                 "location_name": "Belvedere LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.432253933001",
+                 "status": "Active",
+                 "address": "6010 - 129 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.40467256905,
+                                 53.602977433839
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.6029774338393",
+                 "location_address": null,
+                 "location_name": "Clareview Community Recreation Arena",
+                 "location_city": null,
+                 "longitude": "-113.404672569047",
+                 "status": "Active",
+                 "address": "3802 - 139 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.59966647997,
+                                 53.563919488957
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5639194889566",
+                 "location_address": null,
+                 "location_name": "Alberta Park Place Bldg",
+                 "location_city": null,
+                 "longitude": "-113.599666479966",
+                 "status": "Active",
+                 "address": "16104 - 114 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "1"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.5138643706,
+                                 53.519571973308
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5195719733075",
+                 "location_address": null,
+                 "location_name": "City Arts Centre",
+                 "location_city": null,
+                 "longitude": "-113.513864370601",
+                 "status": "Active",
+                 "address": "10943 - 84 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.48865332928,
+                                 53.544301041127
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5443010411273",
+                 "location_address": null,
+                 "location_name": "Chancery Hall",
+                 "location_city": null,
+                 "longitude": "-113.488653329283",
+                 "status": "Active",
+                 "address": "3 - SIR WINSTON CHURCHILL SQUARE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.48347997421,
+                                 53.54778411073
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5477841107296",
+                 "location_address": null,
+                 "location_name": "ERD Station 1",
+                 "location_city": null,
+                 "longitude": "-113.48347997421",
+                 "status": "Active",
+                 "address": "10351 - 96 STREET NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.51148322649,
+                                 53.52725115426
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5272511542602",
+                 "location_address": null,
+                 "location_name": "Kinsmen Sports Centre",
+                 "location_city": null,
+                 "longitude": "-113.511483226487",
+                 "status": "Active",
+                 "address": "9100 - WALTERDALE HILL NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.56021978217,
+                                 53.559728102384
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5597281023844",
+                 "location_address": null,
+                 "location_name": "Peter Hemingway Fitness and Leisure Centre",
+                 "location_city": null,
+                 "longitude": "-113.560219782175",
+                 "status": "Active",
+                 "address": "13808 - 111 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.47123433617,
+                                 53.559273720742
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5592737207424",
+                 "location_address": null,
+                 "location_name": "Stadium LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.471234336173",
+                 "status": "Active",
+                 "address": "11060 - 84 STREET NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.51557976116,
+                                 53.457047051266
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4570470512658",
+                 "location_address": null,
+                 "location_name": "Century Park LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.515579761158",
+                 "status": "Active",
+                 "address": "2515 - 111 STREET NW",
+                 ":@computed_region_da6r_6gkw": "10"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.44502803935,
+                                 53.457115410165
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4571154101646",
+                 "location_address": null,
+                 "location_name": "Millwoods Recreation Centre",
+                 "location_city": null,
+                 "longitude": "-113.445028039348",
+                 "status": "Active",
+                 "address": "7207 - 28 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52190321378,
+                                 53.617014086737
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.6170140867372",
+                 "location_address": null,
+                 "location_name": "Castle Downs Park Pavilion",
+                 "location_city": null,
+                 "longitude": "-113.521903213779",
+                 "status": "In Future",
+                 "address": "11520 - 153 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "3"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.42989789541,
+                                 53.586533251219
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5865332512187",
+                 "location_address": null,
+                 "location_name": "Kennedale Waste Operations East",
+                 "location_city": null,
+                 "longitude": "-113.429897895409",
+                 "status": "Active",
+                 "address": "12804 - 58 STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.51582833052,
+                                 53.485497038224
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4854970382237",
+                 "location_address": null,
+                 "location_name": "Southgate LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.515828330522",
+                 "status": "Active",
+                 "address": "5015 - 111 STREET NW",
+                 ":@computed_region_da6r_6gkw": "10"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.48950773322,
+                                 53.411484820155
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4114848201545",
+                 "location_address": null,
+                 "location_name": "Ellerslie MES",
+                 "location_city": null,
+                 "longitude": "-113.489507733223",
+                 "status": "Active",
+                 "address": "2415 - 101 STREET SW",
+                 ":@computed_region_da6r_6gkw": "12"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.47728467892,
+                                 53.558263511437
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5582635114373",
+                 "location_address": null,
+                 "location_name": "Commonwealth, CCRC (Community Recreation Centre)",
+                 "location_city": null,
+                 "longitude": "-113.477284678919",
+                 "status": "Active",
+                 "address": "11100 - STADIUM ROAD NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.64698240267,
+                                 53.552711302727
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.552711302727",
+                 "location_address": null,
+                 "location_name": "Fire Service Center",
+                 "location_city": null,
+                 "longitude": "-113.646982402674",
+                 "status": "Active",
+                 "address": "18603 - 106A AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "1"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4203730629,
+                                 53.594850574182
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5948505741816",
+                 "location_address": null,
+                 "location_name": "ROW Building",
+                 "location_city": null,
+                 "longitude": "-113.4203730629",
+                 "status": "Active",
+                 "address": "13310 - 50A STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4314437611,
+                                 53.585082540908
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5850825409079",
+                 "location_address": null,
+                 "location_name": "Kennedale MES",
+                 "location_city": null,
+                 "longitude": "-113.431443761096",
+                 "status": "Active",
+                 "address": "12840 - 58 STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.51360327766,
+                                 53.560929679667
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5609296796665",
+                 "location_address": null,
+                 "location_name": "Central Lions Senior Centre",
+                 "location_city": null,
+                 "longitude": "-113.51360327766",
+                 "status": "Active",
+                 "address": "11113 - 113 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52807585885,
+                                 53.503068802553
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5030688025525",
+                 "location_address": null,
+                 "location_name": "South Campus LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.528075858846",
+                 "status": "Active",
+                 "address": "11457 - 68 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "10"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.45856165634,
+                                 53.492732607718
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.492732607718",
+                 "location_address": null,
+                 "location_name": "Richard Paterson Garage",
+                 "location_city": null,
+                 "longitude": "-113.458561656336",
+                 "status": "Active",
+                 "address": "5710 - 86 STREET NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4314137611,
+                                 53.585112540908
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5851125409079",
+                 "location_address": null,
+                 "location_name": "Kennedale Drainage Building",
+                 "location_city": null,
+                 "longitude": "-113.431413761096",
+                 "status": "Active",
+                 "address": "12810 - 58 STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4776615193,
+                                 53.534742629392
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5347426293915",
+                 "location_address": null,
+                 "location_name": "Muttart Conservatory",
+                 "location_city": null,
+                 "longitude": "-113.477661519303",
+                 "status": "Active",
+                 "address": "9626 - 96A STREET NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.50682767583,
+                                 53.579440235028
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5794402350281",
+                 "location_address": null,
+                 "location_name": "Westwood MES\/Offices\/Garage",
+                 "location_city": null,
+                 "longitude": "-113.506827675828",
+                 "status": "Active",
+                 "address": "12404 - 107 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52193321378,
+                                 53.616984086737
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.6169840867372",
+                 "location_address": null,
+                 "location_name": "Castledowns Arena & Recreation",
+                 "location_city": null,
+                 "longitude": "-113.521933213779",
+                 "status": "Active",
+                 "address": "11520 - 153 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "3"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.57196776412,
+                                 53.563623500772
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5636235007716",
+                 "location_address": null,
+                 "location_name": "West End Maintenance Building (M.E.S.)",
+                 "location_city": null,
+                 "longitude": "-113.571967764115",
+                 "status": "Active",
+                 "address": "14320 - 114 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.48992772572,
+                                 53.543960622085
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5439606220845",
+                 "location_address": null,
+                 "location_name": "Churchill Square\/Interpretive Centre\/Tix on the Square",
+                 "location_city": null,
+                 "longitude": "-113.48992772572",
+                 "status": "Active",
+                 "address": "9918 - 102 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.45627665764,
+                                 53.491960307947
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4919603079471",
+                 "location_address": null,
+                 "location_name": "Percy Wickman Garage",
+                 "location_city": null,
+                 "longitude": "-113.45627665764",
+                 "status": "Active",
+                 "address": "5610 - 86 STREET NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.58282343561,
+                                 53.426691076212
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4266910762123",
+                 "location_address": null,
+                 "location_name": "Centennial Transit Garage",
+                 "location_city": null,
+                 "longitude": "-113.582823435608",
+                 "status": "Active",
+                 "address": "15520 - ELLERSLIE ROAD SW",
+                 ":@computed_region_da6r_6gkw": "9"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.50055431398,
+                                 53.548411944097
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5484119440971",
+                 "location_address": null,
+                 "location_name": "Emergency Operations Center (EOC)",
+                 "location_city": null,
+                 "longitude": "-113.500554313977",
+                 "status": "Active",
+                 "address": "10539 - 105 STREET NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52833569107,
+                                 53.553905073474
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5539050734737",
+                 "location_address": null,
+                 "location_name": "Beaufort Bldg",
+                 "location_city": null,
+                 "longitude": "-113.528335691073",
+                 "status": "Active",
+                 "address": "10835 - 120 STREET NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.47302972473,
+                                 53.477039850637
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4770398506373",
+                 "location_address": null,
+                 "location_name": "Office of Traffic Safety",
+                 "location_city": null,
+                 "longitude": "-113.473029724731",
+                 "status": "Active",
+                 "address": "9304 - 41 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52388440138,
+                                 53.513037037121
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5130370371206",
+                 "location_address": null,
+                 "location_name": "McKernan\/Belgravia LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.52388440138",
+                 "status": "Active",
+                 "address": "100 - MCKERNAN\/BELGRAVIA LRT STATION NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.58875030798,
+                                 53.57152892108
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5715289210804",
+                 "location_address": null,
+                 "location_name": "Mitchell Division",
+                 "location_city": null,
+                 "longitude": "-113.588750307978",
+                 "status": "Active",
+                 "address": "11904 - 154 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.48787551341,
+                                 53.544419668744
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5444196687436",
+                 "location_address": null,
+                 "location_name": "Century Place",
+                 "location_city": null,
+                 "longitude": "-113.487875513414",
+                 "status": "Active",
+                 "address": "9803 - 102A AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.59299770184,
+                                 53.547315322548
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5473153225484",
+                 "location_address": null,
+                 "location_name": "Fire Rescue Services Training School",
+                 "location_city": null,
+                 "longitude": "-113.592997701835",
+                 "status": "Active",
+                 "address": "10420 - 157 STREET NW",
+                 ":@computed_region_da6r_6gkw": "1"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49422924535,
+                                 53.544177824024
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5441778240237",
+                 "location_address": null,
+                 "location_name": "HSBC Building",
+                 "location_city": null,
+                 "longitude": "-113.494229245353",
+                 "status": "Active",
+                 "address": "10250 - 101 STREET NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49017935806,
+                                 53.545358180349
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5453581803487",
+                 "location_address": null,
+                 "location_name": "City Hall",
+                 "location_city": null,
+                 "longitude": "-113.490179358063",
+                 "status": "Active",
+                 "address": "1 - SIR WINSTON CHURCHILL SQUARE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.60372903717,
+                                 53.564097240126
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5640972401258",
+                 "location_address": null,
+                 "location_name": "Elections Office",
+                 "location_city": null,
+                 "longitude": "-113.603729037166",
+                 "status": "Active",
+                 "address": "16304 - 114 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "1"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.41137775955,
+                                 53.60114681804
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.6011468180401",
+                 "location_address": null,
+                 "location_name": "Clareview LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.411377759554",
+                 "status": "Active",
+                 "address": "100 - CLAREVIEW TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.5789505489,
+                                 53.501429162491
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5014291624913",
+                 "location_address": null,
+                 "location_name": "John Janzen Nature Centre",
+                 "location_city": null,
+                 "longitude": "-113.578950548901",
+                 "status": "Active",
+                 "address": "7000 - 143 STREET NW",
+                 ":@computed_region_da6r_6gkw": "9"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49183534824,
+                                 53.541400657821
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5414006578212",
+                 "location_address": null,
+                 "location_name": "Central LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.49183534824",
+                 "status": "Active",
+                 "address": "100 - CENTRAL TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.52612354718,
+                                 53.527139683748
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.527139683748",
+                 "location_address": null,
+                 "location_name": "University LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.526123547181",
+                 "status": "Active",
+                 "address": "100 - UNIVERSITY STATION NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.57193776412,
+                                 53.563653500772
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5636535007716",
+                 "location_address": null,
+                 "location_name": "Coronation Drainage Yard - Administration Building",
+                 "location_city": null,
+                 "longitude": "-113.571937764115",
+                 "status": "Active",
+                 "address": "14402 - 114 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49138251992,
+                                 53.54701820888
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5470182088796",
+                 "location_address": null,
+                 "location_name": "CN Tower",
+                 "location_city": null,
+                 "longitude": "-113.491382519925",
+                 "status": "Active",
+                 "address": "10004 - 104 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49296957663,
+                                 53.541343142619
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5413431426192",
+                 "location_address": null,
+                 "location_name": "Scotia Place",
+                 "location_city": null,
+                 "longitude": "-113.492969576631",
+                 "status": "Active",
+                 "address": "10060 - JASPER AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.57959451664,
+                                 53.563954099885
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5639540998847",
+                 "location_address": null,
+                 "location_name": "Parks Northwest",
+                 "location_city": null,
+                 "longitude": "-113.579594516642",
+                 "status": "Active",
+                 "address": "11402 - 149 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.45856165634,
+                                 53.492732607718
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.492732607718",
+                 "location_address": null,
+                 "location_name": "ETS Davies Administration Building",
+                 "location_city": null,
+                 "longitude": "-113.458561656336",
+                 "status": "Active",
+                 "address": "8729 - 58 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4583501153,
+                                 53.570807133234
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5708071332343",
+                 "location_address": null,
+                 "location_name": "Coliseum LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.4583501153",
+                 "status": "Active",
+                 "address": "7628 - 118 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "7"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.56845184423,
+                                 53.564397645613
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5643976456127",
+                 "location_address": null,
+                 "location_name": "Coronation ECO Station",
+                 "location_city": null,
+                 "longitude": "-113.568451844235",
+                 "status": "Active",
+                 "address": "11440 - 143 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.65078650539,
+                                 53.556606183341
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5566061833407",
+                 "location_address": null,
+                 "location_name": "Engineering Services Bldg",
+                 "location_city": null,
+                 "longitude": "-113.65078650539",
+                 "status": "Active",
+                 "address": "11004 - 190 STREET NW",
+                 ":@computed_region_da6r_6gkw": "1"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49703229845,
+                                 53.51978345745
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5197834574499",
+                 "location_address": null,
+                 "location_name": "Dr Wilbert McIntyre Park",
+                 "location_city": null,
+                 "longitude": "-113.497032298449",
+                 "status": "Active",
+                 "address": "8331 - 104 STREET NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.43049788823,
+                                 53.548817760198
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5488177601979",
+                 "location_address": null,
+                 "location_name": "Hardisty Leisure Centre",
+                 "location_city": null,
+                 "longitude": "-113.430497888235",
+                 "status": "Active",
+                 "address": "10535 - 65 STREET NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.5789205489,
+                                 53.501459162491
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5014591624913",
+                 "location_address": null,
+                 "location_name": "Fort Edmonton Park (Reeds Bazaar, Ukrainian Bookstore, Capitol Theatre)",
+                 "location_city": null,
+                 "longitude": "-113.578920548901",
+                 "status": "Active",
+                 "address": "7000 - 143 STREET NW",
+                 ":@computed_region_da6r_6gkw": "9"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.45853165634,
+                                 53.492762607718
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.492762607718",
+                 "location_address": null,
+                 "location_name": "Davies MES",
+                 "location_city": null,
+                 "longitude": "-113.458531656336",
+                 "status": "Active",
+                 "address": "8733 - 58 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.42986789541,
+                                 53.586563251219
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5865632512187",
+                 "location_address": null,
+                 "location_name": "Kennedale East Parks",
+                 "location_city": null,
+                 "longitude": "-113.429867895409",
+                 "status": "Active",
+                 "address": "12803 - 58 STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49176190672,
+                                 53.545188778117
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5451887781172",
+                 "location_address": null,
+                 "location_name": "Churchill Building",
+                 "location_city": null,
+                 "longitude": "-113.491761906721",
+                 "status": "Active",
+                 "address": "10015 - 103 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.4203430629,
+                                 53.594880574182
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5948805741816",
+                 "location_address": null,
+                 "location_name": "DL MacDonald",
+                 "location_city": null,
+                 "longitude": "-113.4203430629",
+                 "status": "Active",
+                 "address": "13310 - 50A STREET NW",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.5040853963,
+                                 53.540567987591
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5405679875909",
+                 "location_address": null,
+                 "location_name": "Corona LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.504085396297",
+                 "status": "Active",
+                 "address": "100 - CORONA TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.47763357393,
+                                 53.594489262737
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5944892627371",
+                 "location_address": null,
+                 "location_name": "O'leary Leisure Centre",
+                 "location_city": null,
+                 "longitude": "-113.477633573925",
+                 "status": "Active",
+                 "address": "8808 - 132 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "7"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.46897279363,
+                                 53.472669638853
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4726696388526",
+                 "location_address": null,
+                 "location_name": "Parks SouthEast",
+                 "location_city": null,
+                 "longitude": "-113.468972793626",
+                 "status": "Active",
+                 "address": "9120 - 37 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.51115165971,
+                                 53.536089896336
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5360898963364",
+                 "location_address": null,
+                 "location_name": "Grandin LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.511151659714",
+                 "status": "Active",
+                 "address": "100 - GRANDIN TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.44423560684,
+                                 53.607287611468
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.6072876114676",
+                 "location_address": null,
+                 "location_name": "Londonderry Arena",
+                 "location_city": null,
+                 "longitude": "-113.444235606844",
+                 "status": "Active",
+                 "address": "14520 - 66 STREET NW",
+                 ":@computed_region_da6r_6gkw": "3"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.41578024694,
+                                 53.53463347519
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.53463347519",
+                 "location_address": null,
+                 "location_name": "Eastgate Drainage Building",
+                 "location_city": null,
+                 "longitude": "-113.415780246942",
+                 "status": "Active",
+                 "address": "9504 - 49 STREET NW",
+                 ":@computed_region_da6r_6gkw": "8"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.60346881971,
+                                 53.597652216664
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5976522166638",
+                 "location_address": null,
+                 "location_name": "Animal Care & Control Centre",
+                 "location_city": null,
+                 "longitude": "-113.603468819714",
+                 "status": "Active",
+                 "address": "13550 - 163 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.62696146778,
+                                 53.505097720951
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5050977209512",
+                 "location_address": null,
+                 "location_name": "Callingwood Arena & Recreation Centre",
+                 "location_city": null,
+                 "longitude": "-113.626961467784",
+                 "status": "Active",
+                 "address": "17740 - 69 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "5"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.34300935484,
+                                 53.596479252737
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5964792527372",
+                 "location_address": null,
+                 "location_name": "Waste Management (Admin Bld, R&D Bld, IPTF Bld, ESMF)",
+                 "location_city": null,
+                 "longitude": "-113.343009354843",
+                 "status": "Active",
+                 "address": "13111 - MERIDIAN STREET NE",
+                 ":@computed_region_da6r_6gkw": "4"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.50019114758,
+                                 53.554152708695
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5541527086952",
+                 "location_address": null,
+                 "location_name": "Prince of Wales - Armouries",
+                 "location_city": null,
+                 "longitude": "-113.500191147579",
+                 "status": "Active",
+                 "address": "10440 - 108 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.58268428866,
+                                 53.458334705627
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4583347056265",
+                 "location_address": null,
+                 "location_name": "Terwillegar Community Recreation Centre",
+                 "location_city": null,
+                 "longitude": "-113.582684288656",
+                 "status": "Active",
+                 "address": "2051 - LEGER ROAD NW",
+                 ":@computed_region_da6r_6gkw": "9"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.45665455016,
+                                 53.495014277797
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.4950142777967",
+                 "location_address": null,
+                 "location_name": "Ferrier Division",
+                 "location_city": null,
+                 "longitude": "-113.456654550158",
+                 "status": "Active",
+                 "address": "8620 - 58 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "11"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49570454032,
+                                 53.543575569137
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5435755691373",
+                 "location_address": null,
+                 "location_name": "City Centre West",
+                 "location_city": null,
+                 "longitude": "-113.495704540322",
+                 "status": "Active",
+                 "address": "10200 - 102 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49002549334,
+                                 53.544505200335
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5445052003349",
+                 "location_address": null,
+                 "location_name": "Churchill LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.490025493337",
+                 "status": "Active",
+                 "address": "100 - CHURCHILL TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.38419208202,
+                                 53.561551384158
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5615513841583",
+                 "location_address": null,
+                 "location_name": "ACT Rec Center",
+                 "location_city": null,
+                 "longitude": "-113.384192082018",
+                 "status": "Active",
+                 "address": "2909 - 113 AVENUE NW",
+                 ":@computed_region_da6r_6gkw": "7"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.49648396526,
+                                 53.541473262612
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5414732626121",
+                 "location_address": null,
+                 "location_name": "Bay\/Enterprise Square LRT Station",
+                 "location_city": null,
+                 "longitude": "-113.496483965262",
+                 "status": "Active",
+                 "address": "100 - BAY TRANSIT STATION NW",
+                 ":@computed_region_da6r_6gkw": "6"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.50583187762,
+                                 53.572246997983
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "Transit Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5722469979829",
+                 "location_address": null,
+                 "location_name": "Westwood Division",
+                 "location_city": null,
+                 "longitude": "-113.50583187762",
+                 "status": "Active",
+                 "address": "11840 - 106A STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 -113.50679767583,
+                                 53.579470235028
+                                 ]
+                 },
+                 "properties": {
+                 "location_state": null,
+                 "facility_type": "City Facility",
+                 "location_zip": null,
+                 "wifiprovider": "City of Edmonton",
+                 "latitude": "53.5794702350281",
+                 "location_address": null,
+                 "location_name": "Westwood Central Service Yard",
+                 "location_city": null,
+                 "longitude": "-113.506797675828",
+                 "status": "Active",
+                 "address": "12304 - 107 STREET NW",
+                 ":@computed_region_da6r_6gkw": "2"
+                 }
+                 }
+                 ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}
